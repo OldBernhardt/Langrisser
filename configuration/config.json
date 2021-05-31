@@ -1,4 +1,9 @@
 {
-  "www": "sdfsf",
-  "character": "test"  
+	"www": "sdfsf",
+	"character": {
+		"atlas": "https://raw.githubusercontent.com/OldBernhardt/Langrisser/main/data/char/freya/freya_skin02/Freya_Skin02.atlas.txt",
+		"png": "https://raw.githubusercontent.com/OldBernhardt/Langrisser/main/data/char/freya/freya_skin02/Freya_Skin02.png",
+		"json": "https://raw.githubusercontent.com/OldBernhardt/Langrisser/main/data/char/freya/freya_skin02/Freya_Skin02.json",
+		"skeletondata": "https://raw.githubusercontent.com/OldBernhardt/Langrisser/main/data/char/freya/freya_skin02/Freya_Skin02_SkeletonData.asset"
+	}
 }
