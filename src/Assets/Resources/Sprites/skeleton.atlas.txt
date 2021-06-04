@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Paper_Talk_01
+  rotate: false
+  xy: 2, 2
+  size: 512, 253
+  orig: 512, 253
+  offset: 0, 0
+  index: -1

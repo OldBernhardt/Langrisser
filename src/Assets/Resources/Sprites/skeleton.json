@@ -1,0 +1,24 @@
+{
+"skeleton": { "hash": "YSbH5/2IOu9NQzey6pLm19fCrVo", "spine": "3.8.76", "images": "C:/AMD/Sprites/Texture2D/ui/dialog", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" }
+],
+"slots": [
+	{ "name": "Paper_Talk_02", "bone": "bone" },
+	{ "name": "Paper_Talk_01", "bone": "root", "attachment": "Paper_Talk_01" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Paper_Talk_01": {
+				"Paper_Talk_01": { "y": 0.5, "width": 512, "height": 253 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {}
+}
+}
